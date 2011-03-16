@@ -1,5 +1,5 @@
 A simple demo of a game with a tiled map built using the cocos2d engine.
 
-cocos2d - www.cocos2d-iphone.org/
-Tiled Map Editor (Windows, Mac OS X, Linux) - www.mapeditor.org
-Zwoptex (Flash) - www.zwoptexapp.com/flashversion
+ENGINE: cocos2d - www.cocos2d-iphone.org/
+MAP EDITOR: Tiled Map Editor (Windows, Mac OS X, Linux) - www.mapeditor.org
+SPRITE SHEET: Zwoptex (Flash) - www.zwoptexapp.com/flashversion
